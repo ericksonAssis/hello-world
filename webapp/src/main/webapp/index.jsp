@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning With E-Systems Global Venture</h1>
+    <h1>New user Register for DevOps Learning With Erickson and Partners</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
